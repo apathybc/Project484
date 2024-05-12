@@ -1,5 +1,5 @@
 int led = 13;
-//int button 2; 
+int button 2; 
 int solenoide = 4;
 
 void setup() {

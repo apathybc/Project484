@@ -1,2 +1,20 @@
 # Project484
-Paddles - Rounded triangle shaped paddles, one on the left, one on the right. Measure out the distance in between so the ball can actually fall through the center. Keep the paddles relative to the theme. Will have a button that allows for the paddles to go up/down and will have this wired directly above the paddles on the outside of the machine. We will have to program how fast/hard the paddles will hit the balls. We do not want it to be too soft or too hard, I will have to find a good medium range for this to work as desired. I will use solenoids to get the paddles to function properly.  I read on this website how to properly implement the solenoids to the paddles. 
+This goal of this project was to electrify paddles on the pinball machine through the use of solenoids and other components. I did not sucessfully electrify these paddles, but I understand what was necessary to do so. Since I did not sucessfully electrify the paddles, I used the original cardboard paddles that were provided with the pinball machine. 
+
+## Components
+-12V/2A/20N solenoid
+<br>
+-12V/2A Power Supply
+<br>
+-2.2K Ohm Resistor
+<br>
+-Transistor 
+<br>
+-1N4007 Diode
+<br>
+-Arduino Uno Rev3
+<br>
+<br>
+## More Information
+For more information about my project, check out my [wiki!] (https://github.com/apathybc/Project484/wiki)
+

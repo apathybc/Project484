@@ -6,7 +6,7 @@ This goal of this project was to electrify paddles on the pinball machine throug
 <br>
 -12V/2A Power Supply
 <br>
--2.2K Ohm Resistor
+-2.2K Ohm Resistor, 100 Ohm Resistor
 <br>
 -Transistor 
 <br>

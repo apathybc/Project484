@@ -1,4 +1,4 @@
-# Project484
+# Pinball Paddles ECE484
 This goal of this project was to electrify paddles on the pinball machine through the use of solenoids and other components. I did not sucessfully electrify these paddles, but I understand what was necessary to do so. Since I did not sucessfully electrify the paddles, I used the original cardboard paddles that were provided with the pinball machine. 
 
 ## Components

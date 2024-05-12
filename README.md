@@ -16,5 +16,5 @@ This goal of this project was to electrify paddles on the pinball machine throug
 <br>
 <br>
 ## More Information
-For more information about my project, check out my [wiki!](https://github.com/apathybc/Project484/wiki)
+For more information about my project, check out my [wiki](https://github.com/apathybc/Project484/wiki) !
 
